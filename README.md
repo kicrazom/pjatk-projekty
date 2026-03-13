@@ -1,3 +1,3 @@
 Autor: Łukasz Minarowski
 
-Projekty zaliczeniowe studiów podyplomowych Bioinfomratyka
+Projekty zaliczeniowe studiów podyplomowych Bioinformatyka
