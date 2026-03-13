@@ -3,7 +3,7 @@
 Projekt zaliczeniowy PJATK - nieobowiązkowy
 
 Temat:
-POdstawowy program Scratch
+Podstawowy program Scratch
 
 Platforma:
 Scratch
